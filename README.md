@@ -111,11 +111,11 @@ pip install -r requirements.txt
 
 ## Running the Project
 
-```bash
-python run_pipeline.py
-```
+<img width="1492" height="435" alt="Retal_ETL_pipeline" src="https://github.com/user-attachments/assets/527dcf55-e0f5-4f0f-9c11-22cdb2407f87" />
 
-Or execute the Databricks notebooks in order:
+
+
+
 
 1. 01_Data_Load
 2. 02_Bronze
@@ -170,9 +170,6 @@ Add screenshots of:
 - Gold Tables
 - SQL Results
 
-## License
-
-MIT License
 
 ## Author
 
