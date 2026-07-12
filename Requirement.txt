@@ -1,0 +1,26 @@
+# RetailMart Data Engineering Platform — dependencies
+# This project demonstrates an end-to-end data engineering pipeline for
+# RetailMart using Databricks, Apache Spark, Delta Lake, and SQL.
+# The pipeline follows the Medallion Architecture (Bronze, Silver, Gold)
+# to ingest, clean, transform, and analyze retail sales data.
+# The project is designed to run on Databricks Free Edition and can also
+# be executed locally using PySpark with minimal configuration changes.
+
+pyspark==3.5.1
+delta-spark==3.2.0
+pandas==2.2.2
+numpy==1.26.4
+pyarrow==16.1.0
+sqlalchemy==2.0.31
+python-dotenv==1.0.1
+pyyaml==6.0.1
+loguru==0.7.2
+jupyter==1.1.1
+notebook==7.2.1
+ipykernel==6.29.5
+matplotlib==3.9.2
+seaborn==0.13.2
+plotly==5.22.0
+streamlit==1.36.0
+openpyxl==3.1.5
+pytest==8.2.2
