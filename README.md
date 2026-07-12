@@ -82,7 +82,9 @@ RetailMart/
 │
 ├── data/
     ├── raw/
-    ├── cleaned/
+    ├── Bronze/
+    ├── Silver/
+    ├── Gold/
 
 ├── Databricks/
 │   ├── 01_Data_ingestion.ipynb
@@ -160,15 +162,11 @@ Example analyses include:
 - Azure Data Lake
 - Automated monitoring
 
-## Screenshots
+## Dashboard
 
-Add screenshots of:
+<img width="1512" height="695" alt="Screenshot 2026-07-12 105004" src="https://github.com/user-attachments/assets/c4c9d3a1-7dda-46f1-a1eb-7515aa0163eb" />
+<img width="1572" height="732" alt="image" src="https://github.com/user-attachments/assets/d30dae25-5a5d-4eaf-b346-55e6eaa966d3" />
 
-- Databricks Workspace
-- Bronze Tables
-- Silver Tables
-- Gold Tables
-- SQL Results
 
 
 ## Author
