@@ -164,13 +164,13 @@ Example analyses include:
 
 ## Dashboard Highlights
 
-📈 Interactive KPI cards for key business metrics
-📊 Monthly and category-wise sales analysis
-🛍️ Top-selling products and revenue contribution
-👥 Customer purchasing behavior analysis
-💰 Revenue trends and business performance monitoring
-⚡ Powered by Databricks SQL on Gold Layer tables
-📌 Built using the Medallion Architecture (Bronze → Silver → Gold)
+-📈 Interactive KPI cards for key business metrics
+-📊 Monthly and category-wise sales analysis
+-🛍️ Top-selling products and revenue contribution
+-👥 Customer purchasing behavior analysis
+-💰 Revenue trends and business performance monitoring
+-⚡ Powered by Databricks SQL on Gold Layer tables
+-📌 Built using the Medallion Architecture (Bronze → Silver → Gold)
 
 <img width="1512" height="695" alt="Screenshot 2026-07-12 105004" src="https://github.com/user-attachments/assets/c4c9d3a1-7dda-46f1-a1eb-7515aa0163eb" />
 <img width="1572" height="732" alt="image" src="https://github.com/user-attachments/assets/d30dae25-5a5d-4eaf-b346-55e6eaa966d3" />
