@@ -61,6 +61,7 @@ The project processes retail business data including:
 - Orders
 - Products
 - Sales
+- payments
 
 ## Features
 
@@ -80,20 +81,23 @@ The project processes retail business data including:
 RetailMart/
 │
 ├── data/
-│   ├── raw/
-│   ├── cleaned/
-│   ├── bronze/
-│   ├── silver/
-│   └── gold/
-├── notebooks/
-│   ├── 01_Data_Load.ipynb
+    ├── raw/
+    ├── cleaned/
+
+├── Databricks/
+│   ├── 01_Data_ingestion.ipynb
 │   ├── 02_Bronze.ipynb
-│   ├── 03_Silver.ipynb
+│   ├── Silver_orders.ipynb
+|   ├── silver_customer.ipynb
+|   ├── silver_order_items.ipynb
+|   ├── silver_products.ipynb
+|   ├── silver_payments.ipynb
 │   ├── 04_Gold.ipynb
-│   └── 05_SQL_Analysis.ipynb
-├── src/
+│   └── 
+├── sql/
+|    ├── sql_analysis.ipynb
 ├── requirements.txt
-├── run_pipeline.py
+├── retailmart_project_report
 └── README.md
 ```
 
